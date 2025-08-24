@@ -8,51 +8,66 @@
 ---
 
 ## 🕶️ About Me  
+# Hi there 👋 I'm Ebrima Jallow  
 
-```bash
-> whoami
-Aspiring Data Scientist | Data Engineer | ML Explorer
+💻 **Aspiring Data Scientist | Data Engineer | ML Explorer**  
+🎓 Studying **Data Science @ University of Pisa**  
+🌱 Learning every day: *Big Data, Machine Learning, and Data Pipelines*  
 
-> location
-University of Pisa 📍
+---
 
-> mission
-Building scalable pipelines ⚡ | Predictive Models 🤖 | Data-driven Insights 📊
+## ⚡ Tech Stack  
 
-Languages   : Python | SQL | R | JavaScript
-ML/AI       : Scikit-learn | PyTorch | TensorFlow
-Big Data    : Apache Spark | Hadoop | Hive
-Cloud/Tools : AWS | Airflow | Docker
-Databases   : PostgreSQL | MongoDB | MySQL
-Viz         : Power BI | Tableau | Matplotlib | Seaborn
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
+![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
+---
 
-🚀 Featured Repos
+## 🚀 Featured Projects  
 
-✈️ US Flight Delay Prediction (PySpark)
+- ✈️ **[US Flight Delay Prediction (PySpark)](https://github.com/jallow101/DDAM-UNIPI-US-Flight-Delay-Prediction-Big-Data-PySpark)**  
+  Big Data + Machine Learning to predict US flight delays.  
 
-Big Data + ML pipeline predicting US flight delays with PySpark.
+- 🎾 **[Tennis Data Warehouse](https://github.com/jallow101/DSS-tennis-datawarehouse-unipi)**  
+  End-to-end ETL and analytics pipeline for tennis data.  
 
-🎾 Tennis Data Warehouse
+- 🚦 **[Chicago Crash Data Warehouse](https://github.com/jallow101/DSS-Data-Warehouse-for-Crashes-in-Chicago-unipi)**  
+  Warehousing crash data to extract insights and trends.  
 
-ETL pipeline & analytics warehouse for tennis match statistics.
+- 🎟️ **[MERN Ticketing App](https://github.com/jallow101/mern-ticketing-app)**  
+  A full-stack MERN project for event ticketing.  
 
-🚦 Chicago Crash Data Warehouse
+---
 
-An end-to-end warehouse analyzing crash data for insights.
+## ✍️ Medium Articles  
 
-🎟️ MERN Ticketing App
+📝 I share my learning journey on [Medium](https://medium.com/@jallow):  
+- ⚡ *How to Set Up Apache Airflow on AWS EC2 (Bitcoin Pipeline)*  
+- 🌦️ *Estimating Weather Conditions with Interpolation*  
 
-A full-stack ticketing app (MongoDB, Express, React, Node).
+---
 
-✍️ Medium Articles
+## 📊 GitHub Stats  
 
-📝 I share tutorials, workflows, and case studies:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jallow101&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jallow101&layout=compact&theme=tokyonight)  
 
-⚡ How to Set Up Apache Airflow on AWS EC2 (Bitcoin Pipeline)
+---
 
-🌦️ Estimating Weather Conditions with Interpolation
+## 🌍 Connect With Me  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)  
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@jallow)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/jallow101)  
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 📊 GitHub Stats (Hack Style)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jallow101&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jallow101&theme=chartreuse-dark&hide_border=true" height="165"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jallow101&layout=compact&theme=chartreuse-dark&hide_border=true" height="150"> </p>
 
