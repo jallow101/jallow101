@@ -54,7 +54,7 @@
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ebrima-jallow-090831a2)  
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@jallow)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/jallow101)  
 
