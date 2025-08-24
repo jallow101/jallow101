@@ -1,54 +1,61 @@
-# 👋 Hi, I'm Ebrima Jallow  
+<!-- Banner -->
+![banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=120&section=header&text=Ebrima%20Jallow%20⚡&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=55)
 
-🎓 *MSc Data Science @ University of Pisa*  
-📊 *Aspiring Data Scientist | Data Engineer | ML Enthusiast*  
-
----
-
-## About Me  
-- 🔭 I work on **data pipelines, predictive models, and cloud-based solutions**  
-- 🌱 Currently deepening my skills in **Big Data & Machine Learning**  
-- ✍️ I write about **data workflows & analytics** on [Medium](https://medium.com/@jallow)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=750&lines=Hello+World+🌍;Data+Science+%7C+Machine+Learning+%7C+Big+Data+%7C+Cloud;Transforming+Raw+Data+into+Actionable+Insights;Aspiring+Data+Scientist+%40+University+of+Pisa" alt="Typing SVG" />
+</p>
 
 ---
 
-## Core Skills  
+## 🕶️ About Me  
 
-- **Languages**: Python, SQL, R, JavaScript  
-- **ML & Data**: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow  
-- **Big Data**: Spark, Hadoop, Hive  
-- **Cloud & Tools**: AWS, Airflow, Docker  
-- **Databases**: PostgreSQL, MongoDB, MySQL  
-- **Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+```bash
+> whoami
+Aspiring Data Scientist | Data Engineer | ML Explorer
 
----
+> location
+University of Pisa 📍
 
-## Projects  
+> mission
+Building scalable pipelines ⚡ | Predictive Models 🤖 | Data-driven Insights 📊
 
-- ✈️ [Flight Delay Prediction (PySpark)](https://github.com/jallow101/DDAM-UNIPI-US-Flight-Delay-Prediction-Big-Data-PySpark)  
-- 🎾 [Tennis Data Warehouse](https://github.com/jallow101/DSS-tennis-datawarehouse-unipi)  
-- 🚦 [Chicago Crash Data Warehouse](https://github.com/jallow101/DSS-Data-Warehouse-for-Crashes-in-Chicago-unipi)  
-- 🎟️ [MERN Ticketing App](https://github.com/jallow101/mern-ticketing-app)  
+Languages   : Python | SQL | R | JavaScript
+ML/AI       : Scikit-learn | PyTorch | TensorFlow
+Big Data    : Apache Spark | Hadoop | Hive
+Cloud/Tools : AWS | Airflow | Docker
+Databases   : PostgreSQL | MongoDB | MySQL
+Viz         : Power BI | Tableau | Matplotlib | Seaborn
 
----
 
-## Medium Highlights  
+🚀 Featured Repos
 
-- ⚡ Apache Airflow on AWS EC2 (Bitcoin Data Pipeline)  
-- 🌦️ Estimating Weather Conditions with Interpolation  
+✈️ US Flight Delay Prediction (PySpark)
 
-👉 Read more on [Medium](https://medium.com/@jallow).  
+Big Data + ML pipeline predicting US flight delays with PySpark.
 
----
+🎾 Tennis Data Warehouse
 
-## GitHub at a Glance  
+ETL pipeline & analytics warehouse for tennis match statistics.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jallow101&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jallow101&layout=compact&theme=default)  
+🚦 Chicago Crash Data Warehouse
 
----
+An end-to-end warehouse analyzing crash data for insights.
 
-📬 **Reach me at**:  
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- [Medium](https://medium.com/@jallow)  
-- [GitHub](https://github.com/jallow101)  
+🎟️ MERN Ticketing App
+
+A full-stack ticketing app (MongoDB, Express, React, Node).
+
+✍️ Medium Articles
+
+📝 I share tutorials, workflows, and case studies:
+
+⚡ How to Set Up Apache Airflow on AWS EC2 (Bitcoin Pipeline)
+
+🌦️ Estimating Weather Conditions with Interpolation
+
+📊 GitHub Stats (Hack Style)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jallow101&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jallow101&theme=chartreuse-dark&hide_border=true" height="165"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jallow101&layout=compact&theme=chartreuse-dark&hide_border=true" height="150"> </p>
+
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/your-link-here"> <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@jallow"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://github.com/jallow101"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
