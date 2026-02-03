@@ -10,25 +10,27 @@
 ## 🕶️ About Me  
 # Hi there 👋 I'm Ebrima Jallow  
 
-💻 **Aspiring Data Scientist | Data Engineer | ML Explorer**  
+💻 **Aspiring Data Scientist | Data Engineer | ML Explorer | Data Analyst**  
 🎓 Studying **Data Science @ University of Pisa**  
-🌱 Learning every day: *Big Data, Machine Learning, and Data Pipelines*  
+🌱 Learning every day: *Big Data, Machine Learning, Spatial Analytics and Data Pipelines*  
 
 ---
 
 ## ⚡ Tech Stack  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
-![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
 
 ## 🚀 Featured Projects  
+- 🤖 **[AI / Machine Learning Project](https://github.com/jallow101/RAG-Knowledge-base-Chatbot)**  
+  AA Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LangChain, and OpenAI.
 
 - ✈️ **[US Flight Delay Prediction (PySpark)](https://github.com/jallow101/DDAM-UNIPI-US-Flight-Delay-Prediction-Big-Data-PySpark)**  
   Big Data + Machine Learning to predict US flight delays.  
@@ -53,11 +55,11 @@
 ---
 
 ## 🌍 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ebrima-jallow-090831a2)  
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@jallow)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/jallow101)  
-
+<p align="center">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ebrima-jallow-090831a2)"/>
+ <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@jallow"/>  
+ <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/jallow10"/>
+</p>
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
