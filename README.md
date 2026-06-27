@@ -2,20 +2,30 @@
 
 **Data Engineer & Data Scientist** · MSc Data Science, University of Pisa (110/110) · Pisa, Italy
 
-📍 Pisa, Italy &nbsp;|&nbsp; 📬 ebrimajallow20@gmail.com &nbsp;|&nbsp; 🌍 Open to remote roles in EU · Canada · USA
+> Data engineer and data scientist with 4+ years of experience building ETL pipelines, managing national-scale databases, and delivering data infrastructure in the public sector. Currently researching contextual and attitudinal factors of overspeeding in urban mobility at CNR-ISTI, working with real vehicle GPS traces at scale.
+
+📍 Pisa, Italy &nbsp;·&nbsp; 🌍 Open to remote — EU · Canada · USA &nbsp;·&nbsp; 🏛️ CNR-ISTI researcher &nbsp;·&nbsp; ✍️ Medium writer
 
 ---
 
-## About
+## At a glance
 
-Data engineer and data scientist with 4+ years of experience building ETL pipelines, managing national-scale databases, and delivering data infrastructure in the public sector. Previously led EMIS/DHIS2 implementation for the Ministry of Education in The Gambia. Currently completing an MSc at University of Pisa, with a thesis on geospatial mobility analysis (950M+ records).
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **4+** | **950M+** | **110 / 110** | **7M+** |
+| years experience | records processed | MSc grade | flight records (Spark) |
 
-| | |
-|---|---|
-| **Current focus** | Data engineering · ML · Spatial analytics |
-| **Background** | Public sector · National-scale systems |
-| **Looking for** | Remote roles in EU · Canada · USA |
-| **Writing** | Data engineering on Medium |
+---
+
+## MSc Thesis — CNR-ISTI, Pisa
+
+**Contextual and attitudinal factors of overspeeding in urban mobility**
+
+Analysing the behavioural and contextual drivers of speeding using large-scale real vehicle GPS traces. Work carried out at the Institute of Information Science and Technologies (CNR-ISTI), supervised by Prof. Mirco Nanni. Combines spatial analytics, statistical modelling, and big data processing to extract actionable safety insights from urban mobility data.
+
+`Geospatial` `Big Data` `Urban Mobility` `GPS Traces` `Statistical Modelling`
+
+🏛️ CNR-ISTI, Pisa &nbsp;·&nbsp; 👤 Supervised by Prof. Mirco Nanni &nbsp;·&nbsp; 📅 2025 – 2026
 
 ---
 
@@ -47,53 +57,56 @@ Data engineer and data scientist with 4+ years of experience building ETL pipeli
 ## Featured Projects
 
 ### 🤖 [RAG Knowledge Base Chatbot](https://github.com/jallow101/RAG-Knowledge-base-Chatbot)
-Document Q&A system with PDF ingestion, OpenAI embeddings, FAISS vector retrieval, and a Streamlit admin panel. Containerised with Docker.
+PDF ingestion pipeline with OpenAI embeddings, FAISS vector retrieval, Streamlit admin panel, and Docker containerisation.
 
 `LangChain` `FAISS` `OpenAI API` `Streamlit` `Docker` `Python`
 
 ---
 
 ### ✈️ [US Flight Delay Prediction — Big Data (PySpark)](https://github.com/jallow101/DDAM-UNIPI-US-Flight-Delay-Prediction-Big-Data-PySpark)
-PySpark pipeline processing 7M+ flight records — data integration, feature engineering, classification, clustering, and regression analysis.
+PySpark pipeline over 7M+ flight records — feature engineering, classification, clustering, and regression analysis at scale.
 
 `PySpark` `Apache Spark` `Spark ML` `Python` `Pandas`
 
 ---
 
 ### 🎾 [Tennis Data Warehouse](https://github.com/jallow101/DSS-tennis-datawarehouse-unipi)
-End-to-end data warehouse project: snowflake schema design, full ETL in Python + SSIS, OLAP cube with MDX queries, and Power BI dashboards for year-over-year analytics.
+End-to-end data warehouse: snowflake schema design, full ETL in Python + SSIS, OLAP cube with MDX queries, and Power BI dashboards for year-over-year analytics.
 
 `SQL Server` `SSIS` `MDX` `Power BI` `Python`
 
 ---
 
 ### 🚦 [Chicago Crash Data Warehouse](https://github.com/jallow101/DSS-Data-Warehouse-for-Crashes-in-Chicago-unipi)
-Warehousing crash data to extract safety insights and trends across Chicago — full ETL and analytics pipeline.
+Full ETL and analytics pipeline warehousing crash data to surface safety insights and trends across Chicago.
 
 `SQL Server` `SSIS` `Power BI` `Python`
 
 ---
 
-### ☁️ [Airflow Data Pipeline on AWS](https://github.com/jallow101)
-Apache Airflow deployed on AWS EC2 running a daily scheduled pipeline — fetches Bitcoin price data from an external API and stores results in PostgreSQL.
+### ☁️ [Airflow Pipeline on AWS](https://github.com/jallow101)
+Apache Airflow deployed on AWS EC2 running a daily scheduled Bitcoin price pipeline — external API ingestion into PostgreSQL.
 
 `Apache Airflow` `AWS EC2` `PostgreSQL` `Python`
 
 ---
 
 ### 🎟️ [MERN Ticketing App](https://github.com/jallow101/mern-ticketing-app)
-Full-stack event ticketing application built with the MERN stack.
+Full-stack event ticketing platform built with MongoDB, Express, React, and Node.js.
 
 `MongoDB` `Express` `React.js` `Node.js`
 
 ---
 
-## Writing
+## Writing on Medium
 
-I write about data engineering on Medium — covering Airflow, AWS, geospatial methods, and pipeline design.
+I write about data engineering — covering Airflow, AWS, geospatial methods, and pipeline design.
 
-- 📝 [How to Set Up Apache Airflow on AWS EC2 (Bitcoin Pipeline)](https://medium.com/@ebrimajallow20)
-- 📝 [Estimating Weather Conditions with Interpolation](https://medium.com/@ebrimajallow20)
+📝 **[How to Set Up Apache Airflow on AWS EC2 (Bitcoin Pipeline)](https://medium.com/@ebrimajallow20)**
+Step-by-step deployment of a production Airflow DAG on EC2 with a PostgreSQL backend.
+
+📝 **[Estimating Weather Conditions with Interpolation](https://medium.com/@ebrimajallow20)**
+Spatial interpolation methods for inferring weather data from sparse sensor readings.
 
 ---
 
