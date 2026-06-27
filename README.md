@@ -1,6 +1,6 @@
 # Ebrima Jallow
 
-**Data Engineer & Data Scientist** · MSc Data Science, University of Pisa (110/110) · Pisa, Italy
+**Data Engineer & Data Scientist** · MSc Data Science, University of Pisa · Pisa, Italy
 
 > Data engineer and data scientist with 4+ years of experience building ETL pipelines, managing national-scale databases, and delivering data infrastructure in the public sector. Researched on contextual and attitudinal factors of overspeeding in urban mobility at CNR-ISTI, using with real vehicle GPS traces at scale.
 
