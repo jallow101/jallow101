@@ -1,71 +1,117 @@
-<!-- Banner -->
-![banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=120&section=header&text=Ebrima%20Jallow%20⚡&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=55)
+# Ebrima Jallow
+
+**Data Engineer & Data Scientist** · MSc Data Science, University of Pisa (110/110) · Pisa, Italy
+
+📍 Pisa, Italy &nbsp;|&nbsp; 📬 ebrimajallow20@gmail.com &nbsp;|&nbsp; 🌍 Open to remote roles in EU · Canada · USA
+
+---
+
+## About
+
+Data engineer and data scientist with 4+ years of experience building ETL pipelines, managing national-scale databases, and delivering data infrastructure in the public sector. Previously led EMIS/DHIS2 implementation for the Ministry of Education in The Gambia. Currently completing an MSc at University of Pisa, with a thesis on geospatial mobility analysis (950M+ records).
+
+| | |
+|---|---|
+| **Current focus** | Data engineering · ML · Spatial analytics |
+| **Background** | Public sector · National-scale systems |
+| **Looking for** | Remote roles in EU · Canada · USA |
+| **Writing** | Data engineering on Medium |
+
+---
+
+## Tech Stack
+
+**Languages**
+`Python` `SQL` `R` `Java`
+
+**Data Engineering**
+`PySpark` `Apache Airflow` `SSIS` `ETL` `Data Warehousing` `DHIS2`
+
+**Cloud**
+`AWS EC2` `BigQuery` `GCP (Compute Engine)` `Firebase / Firestore`
+
+**ML & AI**
+`PyTorch` `scikit-learn` `LangChain` `RAG` `LLMs` `Feature Engineering`
+
+**Databases**
+`PostgreSQL` `MySQL` `SQL Server` `BigQuery` `FAISS`
+
+**BI & Tools**
+`Power BI` `Streamlit` `Docker` `Git` `OLAP / MDX`
+
+**Web**
+`React.js` `PHP` `HTML / JavaScript`
+
+---
+
+## Featured Projects
+
+### 🤖 [RAG Knowledge Base Chatbot](https://github.com/jallow101/RAG-Knowledge-base-Chatbot)
+Document Q&A system with PDF ingestion, OpenAI embeddings, FAISS vector retrieval, and a Streamlit admin panel. Containerised with Docker.
+
+`LangChain` `FAISS` `OpenAI API` `Streamlit` `Docker` `Python`
+
+---
+
+### ✈️ [US Flight Delay Prediction — Big Data (PySpark)](https://github.com/jallow101/DDAM-UNIPI-US-Flight-Delay-Prediction-Big-Data-PySpark)
+PySpark pipeline processing 7M+ flight records — data integration, feature engineering, classification, clustering, and regression analysis.
+
+`PySpark` `Apache Spark` `Spark ML` `Python` `Pandas`
+
+---
+
+### 🎾 [Tennis Data Warehouse](https://github.com/jallow101/DSS-tennis-datawarehouse-unipi)
+End-to-end data warehouse project: snowflake schema design, full ETL in Python + SSIS, OLAP cube with MDX queries, and Power BI dashboards for year-over-year analytics.
+
+`SQL Server` `SSIS` `MDX` `Power BI` `Python`
+
+---
+
+### 🚦 [Chicago Crash Data Warehouse](https://github.com/jallow101/DSS-Data-Warehouse-for-Crashes-in-Chicago-unipi)
+Warehousing crash data to extract safety insights and trends across Chicago — full ETL and analytics pipeline.
+
+`SQL Server` `SSIS` `Power BI` `Python`
+
+---
+
+### ☁️ [Airflow Data Pipeline on AWS](https://github.com/jallow101)
+Apache Airflow deployed on AWS EC2 running a daily scheduled pipeline — fetches Bitcoin price data from an external API and stores results in PostgreSQL.
+
+`Apache Airflow` `AWS EC2` `PostgreSQL` `Python`
+
+---
+
+### 🎟️ [MERN Ticketing App](https://github.com/jallow101/mern-ticketing-app)
+Full-stack event ticketing application built with the MERN stack.
+
+`MongoDB` `Express` `React.js` `Node.js`
+
+---
+
+## Writing
+
+I write about data engineering on Medium — covering Airflow, AWS, geospatial methods, and pipeline design.
+
+- 📝 [How to Set Up Apache Airflow on AWS EC2 (Bitcoin Pipeline)](https://medium.com/@ebrimajallow20)
+- 📝 [Estimating Weather Conditions with Interpolation](https://medium.com/@ebrimajallow20)
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=750&lines=Hello+World+🌍;Data+Science+%7C+Machine+Learning+%7C+Big+Data+%7C+Cloud;Transforming+Raw+Data+into+Actionable+Insights;Aspiring+Data+Scientist+%40+University+of+Pisa" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jallow101&show_icons=true&theme=default&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jallow101&theme=default&hide_border=true" height="165">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jallow101&layout=compact&theme=default&hide_border=true" height="150">
 </p>
 
 ---
 
-## 🕶️ About Me  
-# Hi there 👋 I'm Ebrima Jallow  
+## Connect
 
-💻 **Aspiring Data Scientist | Data Engineer | ML Explorer | Data Analyst**  
-🎓 Studying **Data Science @ University of Pisa**  
-🌱 Learning every day: *Big Data, Machine Learning, Spatial Analytics and Data Pipelines*  
-
----
-
-## ⚡ Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-</p>
-
-## 🚀 Featured Projects  
-- 🤖 **[AI / Machine Learning Project](https://github.com/jallow101/RAG-Knowledge-base-Chatbot)**  
-  AA Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LangChain, and OpenAI.
-
-- ✈️ **[US Flight Delay Prediction (PySpark)](https://github.com/jallow101/DDAM-UNIPI-US-Flight-Delay-Prediction-Big-Data-PySpark)**  
-  Big Data + Machine Learning to predict US flight delays.  
-
-- 🎾 **[Tennis Data Warehouse](https://github.com/jallow101/DSS-tennis-datawarehouse-unipi)**  
-  End-to-end ETL and analytics pipeline for tennis data.  
-
-- 🚦 **[Chicago Crash Data Warehouse](https://github.com/jallow101/DSS-Data-Warehouse-for-Crashes-in-Chicago-unipi)**  
-  Warehousing crash data to extract insights and trends.  
-
-- 🎟️ **[MERN Ticketing App](https://github.com/jallow101/mern-ticketing-app)**  
-  A full-stack MERN project for event ticketing.  
-
----
-
-## ✍️ Medium Articles  
-
-📝 I share my learning journey on [Medium](https://medium.com/@jallow):  
-- ⚡ *How to Set Up Apache Airflow on AWS EC2 (Bitcoin Pipeline)*  
-- 🌦️ *Estimating Weather Conditions with Interpolation*  
-
----
-
-## 🌍 Connect With Me  
-<p align="center">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ebrima-jallow-090831a2)"/>
- <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@jallow"/>  
- <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/jallow10"/>
-</p>
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-📊 GitHub Stats (Hack Style)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jallow101&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jallow101&theme=chartreuse-dark&hide_border=true" height="165"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jallow101&layout=compact&theme=chartreuse-dark&hide_border=true" height="150"> </p>
-
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/your-link-here"> <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@jallow"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://github.com/jallow101"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebrima-jallow-090831a2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jallow101)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ebrimajallow20)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ebrimajallow20@gmail.com)
